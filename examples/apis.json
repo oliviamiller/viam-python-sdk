@@ -45,9 +45,6 @@
   "pose_tracker": {
     "func": "get_poses"
   },
-  "power_sensor": {
-    "func": "get_voltage"
-  },
   "motion": {
     "func": "get_pose"
   },
